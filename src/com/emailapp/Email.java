@@ -1,4 +1,4 @@
-package com.austin;
+package com.emailapp;
 
 import java.util.Scanner;
 
