@@ -1,4 +1,4 @@
-# Java Email and Password Generator App.
+# Java Email and Password Generator
 
 This app simulates a new employee email and password generator for a company.
 
